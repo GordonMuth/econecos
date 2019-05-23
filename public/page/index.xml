@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on The Economic Ecosystem</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on The Economic Ecosystem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personal Economy</title>
+      <link>/page/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/personal/</guid>
+      <description> Your Personal Economy is all about you; your income, your expenses, your investments and your taxes.
+ </description>
+    </item>
+    
+    <item>
+      <title>Local Economy</title>
+      <link>/page/local/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/local/</guid>
+      <description> The Local Economy is&amp;hellip;
+ </description>
+    </item>
+    
+    <item>
+      <title>Regional Economy</title>
+      <link>/page/regional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/regional/</guid>
+      <description> The Regional Economy is&amp;hellip;
+ </description>
+    </item>
+    
+    <item>
+      <title>National Economy</title>
+      <link>/page/national/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/national/</guid>
+      <description> The National Economy is&amp;hellip;
+ </description>
+    </item>
+    
+    <item>
+      <title>Global Economy</title>
+      <link>/page/global/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/global/</guid>
+      <description> The Global Economy is&amp;hellip;
+ </description>
+    </item>
+    
+  </channel>
+</rss>

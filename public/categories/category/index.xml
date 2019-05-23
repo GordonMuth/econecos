@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on The Economic Ecosystem</title>
+    <link>/categories/category/</link>
+    <description>Recent content in Category on The Economic Ecosystem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2019 20:47:09 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post0</title>
+      <link>/post/post0/</link>
+      <pubDate>Mon, 20 May 2019 20:47:09 -0500</pubDate>
+      
+      <guid>/post/post0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post9</title>
+      <link>/post/post9/</link>
+      <pubDate>Mon, 20 May 2019 20:47:03 -0500</pubDate>
+      
+      <guid>/post/post9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post8</title>
+      <link>/post/post8/</link>
+      <pubDate>Mon, 20 May 2019 20:46:58 -0500</pubDate>
+      
+      <guid>/post/post8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post7</title>
+      <link>/post/post7/</link>
+      <pubDate>Mon, 20 May 2019 20:46:54 -0500</pubDate>
+      
+      <guid>/post/post7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post6</title>
+      <link>/post/post6/</link>
+      <pubDate>Mon, 20 May 2019 20:46:50 -0500</pubDate>
+      
+      <guid>/post/post6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post5</title>
+      <link>/post/post5/</link>
+      <pubDate>Mon, 20 May 2019 20:46:46 -0500</pubDate>
+      
+      <guid>/post/post5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post4</title>
+      <link>/post/post4/</link>
+      <pubDate>Mon, 20 May 2019 20:46:39 -0500</pubDate>
+      
+      <guid>/post/post4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post3</title>
+      <link>/post/post3/</link>
+      <pubDate>Sat, 18 May 2019 11:32:03 -0500</pubDate>
+      
+      <guid>/post/post3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post2</title>
+      <link>/post/post2/</link>
+      <pubDate>Sat, 18 May 2019 11:32:01 -0500</pubDate>
+      
+      <guid>/post/post2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post1</title>
+      <link>/post/post1/</link>
+      <pubDate>Sat, 18 May 2019 11:31:57 -0500</pubDate>
+      
+      <guid>/post/post1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
